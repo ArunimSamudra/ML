@@ -1,1 +1,1 @@
-  Prediciting survival on the Titanic using Machine Learning
+  Prediciting survival of the passengers on the Titanic using Machine Learning
